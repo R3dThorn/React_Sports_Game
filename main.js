@@ -1,5 +1,5 @@
 function App(props) {
-    return <Game venue='Fuck All Stadium' />
+    return <Game venue='Appropriate Name Stadium' />
 }
 
 class Team extends React.Component {
